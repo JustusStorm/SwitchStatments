@@ -1,0 +1,16 @@
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.exe
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.deps.json
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.json
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.dev.json
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.dll
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.pdb
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\Custom.dll
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\Custom.pdb
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csprojAssemblyReference.cache
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfoInputs.cache
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfo.cs
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CopyComplete
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.dll
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.pdb
+D:\Github_Repositories\TrueCoders\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.genruntimeconfig.cache
